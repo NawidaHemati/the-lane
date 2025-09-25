@@ -4,6 +4,7 @@ Laravel/PHP e-commerce demo (‘The Lane’). Product catalog, cart, checkout, a
 # The Lane (Laravel E-Commerce)
 
 A Laravel/PHP e-commerce demo. Features product listing, cart, checkout, authentication, and basic admin.
+**Demo video:** <>
 
 ## ✨ Features
 - Product catalog (list, detail)
