@@ -5,10 +5,22 @@ Laravel/PHP e-commerce demo (‘The Lane’). Product catalog, cart, checkout, a
 
 A Laravel/PHP e-commerce demo. Features product listing, cart, checkout, authentication, and basic admin.
 
-## Tech Stack
-- Laravel (PHP), Blade
-- MySQL (or SQLite)
-- HTML, CSS, JavaScript
+## ✨ Features
+- Product catalog (list, detail)
+- Search & category filtering
+- Shopping cart (add, update, remove)
+- Checkout flow (order creation)
+- User authentication (register/login/logout)
+- Basic admin capabilities (CRUD for products/categories)*
+- Responsive UI built with HTML/CSS/JS
+
+---
+
+## 🧰 Tech Stack
+- **Backend:** PHP, **Laravel**
+- **Frontend:** HTML, ** CSS,** JavaScript **
+- **Views:** Blade templates
+- **Database:** MySQL
 
 ## Getting Started
 ```bash
